@@ -46,4 +46,4 @@
 我的专业是人工智能（无人系统机器人）
 最喜欢的一行代码是hello world
 环境搭建<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/b3c2e70e-30bf-4a9d-896e-e9a58e18a891" />
->>>>>>> a82db4791a380fcf36e0b4839c2786db8cec4fb9
+
